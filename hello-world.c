@@ -1,4 +1,4 @@
 int main (argc,argv) {
-   printf("Hello, world\n");
+   printf("Hello there, children\n");
    }
    
